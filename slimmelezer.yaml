@@ -61,7 +61,7 @@ api:
 ota:
 
 dashboard_import:
-  package_import_url: github://zuidwijk/dsmr/slimmelezer.yaml@main
+  package_import_url: github://eras/dsmr/slimmelezer.yaml@adn9
   import_full_config: true
 
 web_server:
